@@ -1,0 +1,20 @@
+# Machine-specific config (see config_local_example.m)
+config_local.m
+
+# Generated figures and exported tables
+output/
+
+# Large atlas volumes (> GitHub's 100 MB limit) - see README.md for download
+atlas/*.npy
+atlas/*.nrrd
+
+# MATLAB
+*.asv
+*.m~
+*.autosave
+slprj/
+
+# OS / editor
+.DS_Store
+._*
+Thumbs.db

@@ -1,0 +1,378 @@
+// Cerebrum
+ACAd
+ACAv
+%Ala ALp Ald Alv//name area = Ala, Agranular insular area 
+AUDd
+AUDp
+AUDpo
+AUDv
+AON
+APr
+DP
+ECT ECT6b // Ectorhinal
+GU
+ILA
+MOp
+MOs
+%NLOT NLOT1 NLOT2 NLOT3 // name area = NLOT, Nucleus of the lateral olfactory tract
+OLF
+ORB ORBm6b // Orbital area
+OT
+PERI
+PIR
+PL
+RSPagl
+RSPd
+RSPv
+%SSp SSp-bf SSp-ll SSp-m SSp-n SSp-tr SSp-ul SSp-un// Primary somatosensory areas
+SSs
+TEa
+TR
+%TT TTd TTv // Taenia tecta
+VISC
+VISa
+VISal
+VISam
+VISl
+VISli
+%VISp VISp(al) VISp(am) VISp(pl) VISp(pm) //Primary Visual cortex
+VISpl VISpl6b // Posterolateral visual area
+VISpm
+VISpor VISpor6b // Postrhinal area
+VISrl
+//CTX subplate
+PA
+PAA
+MEA
+LA
+IA
+%COA COAa COApl COApm // Cortical Amygdalar Area
+AAA
+%BLAd BLAa BLAp // Basolateral amygdala, dorsal part
+BLAv
+%BMA BMAa BMAp // Basomedial amygdala
+%CEA CEAc CEAl CEAm //Central amygdala
+%EP EPd EPv //Endopiriform nucleus
+HATA
+%CA1 CA1d CA1i CA1v // CA1
+%CA2 CA2d CA2i CA2v // CA2
+%CA3 CA3d CA3i CA3v // CA3
+%DG DGd DGi DGv // Dentate gyrus
+ENTl
+ENTm
+PAR
+POST
+PRE
+ProS
+SUB
+ACB
+BST
+CLA
+%CPa CPadl CPadm CPaml CPamm CPavm cpavl CPmdc CPmdl CPmdm CPmmc CPmml CPmmm CPmvc CPmvl CPmvm CPcdl CPcdm CPcml CPcmm CPcv //Caudatoputamen, anterior part,medial part,caudal part
+GPe
+GPi
+%LSd LSc LSr //Lateral Septum, dorsal
+LSv
+MS
+MA
+NDB
+PAL
+SF
+SI
+STR
+TRS
+// Thalamus
+AD
+%AM AMd AMv //Anteromedial nucleus
+AV
+CL
+CM
+Eth
+%IAt IAD IAM //Interanterior nuceli of the thalamus
+IGL
+IMD
+LD
+%LGd LGd-co LGd-ip LGd-sh //Lateral geniculate, dorsal part
+LGv
+%LP LPcl LPam//Lateralpulvinar
+MD
+%MG MGd MGm MGv //Medial Geniculate complex
+PCN
+PF
+PO
+%PPnT POL PoT SGN PIL SPFp //Posterior Paralaminar nuclei of the thalamus
+PP
+PR
+PT
+PVT
+RE
+RH
+RT
+SMT
+SPA
+SPFm  
+VAL
+VM
+VPL VPLpc // ventral posterolateral nucleus of the thalamus
+VPM
+VPMpc
+Xi
+// Hypothalamus
+AHN
+AVP
+AVPV
+DMH
+FF
+LHA
+LM
+LPO
+ME
+%PON MPN ADP MPO MEPO //Preoptic nuclei
+Mmm Mmd Mml Mmme Mmp // medial mammillary nucleus
+PH
+%PMH PMd PMv //Premammilary nucleus
+PS
+%PST/N PST PSTN STN// Pre and parasubthalamic nucleus
+PVH
+PVHd
+%PeVH PVa PVi PVp PVpo SBPV SCH ARH//Periventricular hypothalamic area
+PeF
+RCH
+SO
+SUM
+%TM TMd TMv // name area = TM, Tuberomammillary nucleus
+TU
+VLPO
+VMH
+ZI
+// Midbrain
+LH 
+MH
+RPF
+APN
+%PTA NOT OP MPT PPT //Pretectal areas
+NPC
+%PRC/SCO PRC SCO //pre- and subcommissural nuclei
+PPN
+CUN
+%ATVTN AT VTN // anterior and ventral tegmental nucleus
+CLI
+DR
+%IC ICc ICd ICe
+IF
+%IPN IPC IPD IPL IPR // name area = IPN, Interpeduncular nucleus
+%MRN MRNal MRNam MRNpl MRNpm //Midbrain reticular nucleus
+%Tn MT LT //Terminal nucleus of the accessory optic tract 
+NB
+%EWMA3 EW MA3 INC Su3 III ND//accessory oculomotor nuclei
+%PAG PAGa PAGmd PAGpd PAGmv PAGpv PAGpl PAGml //PAG
+PBG
+%Pa4IV Pa4 IV //trochlear and paratrochlear nuclei
+RL
+RN
+RR
+SAG
+%SCd SCd(a) SCd(p)
+%SCi SCi(al) SCi(am) SCi(pl) SCi(pm)
+%SCs SCs(al) SCs(am) SCs(pl) SCs(pm)
+SNc 
+SNr
+VTA
+// Hindbrain (pons + medulla)
+%AMB AMBd AMBv // name area = AMB, Nucleus Ambiguus
+AP
+CS
+%CUGR CU GR // cuneate and gracile nucleus
+DCO
+DMX
+DTN //dorsal and posterodorsal tegmental nucleus
+ECU
+GRN
+%I5PC5 I5 PC5 //Intertrigeminal and Parvicellular motor 5 nucleus
+V
+IO
+IRN
+KF
+LAV
+%LCB LC B SLC SLD// Locus coeruleus and barrington's, nucleus subceruleus and sublaterodorsal nucleus
+LDT
+LIN
+%LRN LRNm LRNp // name area = LRN, Lateral reticular nucleus
+MARN
+%MDRN MDRNd MDRNv
+MV
+NI
+NLL
+%NRXII NR XII // Nulceus Roller and Hypoglossal nucleus
+NTB
+%NTSPAS NTS PAS //parasolitary and nucleus of the solitary tract
+%P5Acs5 P5 Acs5 // peritrigeminal and accessory trigeminal nucleus
+PARN
+PB
+%PCGSG PCG SG // Pontine central gray and supragenual nucleus
+PG
+%PGRN PGRNd PGRNl //Paragigantocellular reticular nucleus
+POR
+PPY
+PRNc
+PRNr
+PRP
+PSV
+Pa5
+%RMRO RM RO // raphe magnus and obscurus
+RPA
+RPO
+%SOC SOCl SOCm
+SPIV
+SPVC
+SPVI
+SPVO
+SUT
+SUV
+TRN
+VCO
+VII
+x
+// Cerebellum
+CB
+ANcr1
+ANcr2
+CENT2
+CENT3
+COPY
+//CUL4/5  NOT FOUND 
+DEC
+DN
+FL
+FOTU
+IP
+LING
+NOD
+PFL
+PRM
+PYR
+SIM
+UVU
+%VeCBICB VeCB ICB // Infra- and vestibulocerebellar nuclei
+// too small, fiber tracts, out of craniotomy
+ACVII
+AQ
+ASO
+BAC
+DT
+FC
+%FRP FRP1 FRP2/3 FRP5 FRP6a FRP6b // Frontal pole cerebral cortex
+IG
+IIIn
+IIn
+IPN
+ISN
+IVn
+MEV
+OV
+PD
+SEZ
+V3
+V4
+V4r
+VIIn
+VL // lateral ventricle, control area?
+aco
+act
+alv
+amc
+ar
+arb
+bic
+bsc
+c
+cbc
+ccb // corpus callosum , control area?
+ccg
+ccs
+chpl
+cic
+cing
+cpd
+csc
+cst
+cuf
+das
+df
+dhc
+dscp
+dtd
+ec
+ee
+em
+fa
+fi
+//fiber/tracts
+fp
+fr
+fx
+gVIIn
+hbc
+icp
+int
+ll
+lot
+lotd
+mcp
+mct
+mfb
+ml
+mlf
+moV
+mp
+mtg
+mtt
+nst
+och
+onl
+opt
+or
+pc
+pm
+py
+pyd
+root
+rust
+sV
+scp
+sctd
+sctv
+scwm
+sm
+sptV
+st
+stc
+sup
+tb
+ts
+tspc
+// tspd NOT FOUND
+uf
+vVIIIn
+vhc
+von
+vtd
+AOBgl
+AOBgr
+AOBmi
+MOB
+CTXsp
+HPF
+TH
+HY
+MB
+P
+PN
+SH
+BA
+IntG
+SubG
+SFO
+MY
+VI
+y
